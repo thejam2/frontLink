@@ -9,5 +9,8 @@
 가로 아코디언 참고
 - https://wsss.tistory.com/851
 
+HTML5 SSE참고
+- https://www.w3schools.com/html/html5_serversentevents.asp
+
 리액트 + SSE 참고
 - https://velog.io/@april_5/React-Server-Sent-EventsSSE-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
