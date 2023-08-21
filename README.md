@@ -15,3 +15,6 @@ HTML5 SSE참고
 
 리액트 + SSE 참고
 - https://velog.io/@april_5/React-Server-Sent-EventsSSE-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
+
+아코디언 라이브러리 github
+- https://github.com/bqworks/accordion-slider-js
