@@ -28,3 +28,6 @@ HTML5 SSE참고
 
 타입스크립트 참고
 - https://inpa.tistory.com/entry/TS-%F0%9F%93%98-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%83%80%EC%9E%85-%EC%84%A0%EC%96%B8-%EC%A2%85%EB%A5%98-%F0%9F%92%AF-%EC%B4%9D%EC%A0%95%EB%A6%AC#%ED%83%80%EC%9E%85_-_array
+
+리액트쿼리 참고
+- https://kyounghwan01.github.io/blog/React/react-query/basic/#usequery
