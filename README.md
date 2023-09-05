@@ -31,3 +31,6 @@ HTML5 SSE참고
 
 리액트쿼리 참고
 - https://kyounghwan01.github.io/blog/React/react-query/basic/#usequery
+
+MSW 참고 (모킹)
+- https://www.daleseo.com/mock-service-worker/
