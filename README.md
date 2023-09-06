@@ -34,3 +34,6 @@ HTML5 SSE참고
 
 MSW 참고 (모킹)
 - https://www.daleseo.com/mock-service-worker/
+
+쿼리스트링
+- https://www.npmjs.com/package/query-string
