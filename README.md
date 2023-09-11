@@ -40,3 +40,6 @@ MSW 참고 (모킹)
 
 lodash
 - https://inpa.tistory.com/entry/LODASH-%F0%9F%93%9A-Lodash-vs-ES6-%EC%84%A4%EC%B9%98-%EC%9B%90%EB%A6%AC
+
+video 태그
+- https://coding-factory.tistory.com/886
