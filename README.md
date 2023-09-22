@@ -43,3 +43,6 @@ lodash
 
 video 태그
 - https://coding-factory.tistory.com/886
+
+react-select 라이브러리 (selectbox)
+- https://react-select.com/
