@@ -47,3 +47,17 @@ video 태그
 react-select 라이브러리 (selectbox)
 - https://react-select.com/
 - https://codesandbox.io/s/react-select-with-checkboxes-bedj8?file=/src/App.js   (참고)
+- TS->
+```
+import { OptionProps } from 'react-select'
+
+const InputOption = ({
+  getStyles,
+  isDisabled,
+  isFocused,
+  isSelected,
+  children,
+  innerProps,
+  ...rest
+}: OptionProps) => {}
+```
