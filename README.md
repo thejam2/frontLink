@@ -67,3 +67,6 @@ react-tabs
 
 react-quill  (텍스트 에디터)
 - https://github.com/zenoamaro/react-quill
+
+validation (react hook form)
+- https://react-hook-form.com/
