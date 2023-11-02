@@ -73,3 +73,6 @@ validation (react hook form)
 
 차트 (Recharts)
 - https://recharts.org/en-US
+
+포스트 링크
+- https://developer.mozilla.org/ko/docs/Web/API/Window/postMessage
