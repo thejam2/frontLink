@@ -76,3 +76,7 @@ validation (react hook form)
 
 포스트 링크
 - https://developer.mozilla.org/ko/docs/Web/API/Window/postMessage
+
+배포 default
+- ubuntu
+- var/www
