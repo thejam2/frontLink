@@ -80,3 +80,10 @@ validation (react hook form)
 배포 default
 - ubuntu
 - var/www
+
+클린 코드
+- eslint
+- prettier
+- husky
+- lint staged
+- editor config
