@@ -87,3 +87,6 @@ validation (react hook form)
 - husky
 - lint staged
 - editor config
+
+zustand
+- https://docs.pmnd.rs/zustand/getting-started/introduction
