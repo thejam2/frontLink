@@ -90,3 +90,6 @@ validation (react hook form)
 
 zustand
 - https://docs.pmnd.rs/zustand/getting-started/introduction
+
+context
+- https://velog.io/@velopert/react-context-tutorial
