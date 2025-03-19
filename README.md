@@ -103,3 +103,6 @@ TypeScript에서 string key로 객체에 접근하기
 
 DayJs
 - https://stickode.tistory.com/668
+
+리액트 overlay 라이브러리
+- https://github.com/toss/overlay-kit
